@@ -1,1 +1,1 @@
-# esame.laboratorio
+# esame.py
